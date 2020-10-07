@@ -1,5 +1,5 @@
 # Cloud Network
-This is a collection of Linux Scripts and Ansible Scripts from my CyberClass.
+This is a collection of Linux Scripts and Ansible Scripts from my Cyber Security Class.
 
 Most of the scripts are used to configure cloud servers with differnt docker containers.
 
